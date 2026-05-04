@@ -8,11 +8,11 @@ Solução para o desafio [Results Summary Component](https://www.frontendmentor.
 
 ### Desktop
 
-[Imagem Aqui]
+<img width="1141" height="645" alt="image" src="https://github.com/user-attachments/assets/ff051970-0864-46a5-b444-cf955aaabb5d" />
 
 ### Mobile
 
-[Imagem Aqui]
+<img width="398" height="783" alt="image" src="https://github.com/user-attachments/assets/afc992bc-1544-4863-96e0-b684a5ac442f" />
 
 ### Demo ao vivo
 
