@@ -38,6 +38,11 @@
 body {
   background-color: var(--background-color);
   font-family: var(--font-family);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 /* Card styling - adjusts the two divs*/
 .card {
@@ -47,7 +52,6 @@ body {
   overflow: hidden;
   box-shadow: 0 10px 20px var(--shadow-color);
   margin-inline: auto;
-  margin-block: 10%;
   background-color: var(--all-white);
 }
 
